@@ -4,7 +4,7 @@ This is a job portal application built using Laravel 11 and PHP 8.3. It allows e
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/nael-awadallah/laravel-job-board.git`
+1. Clone the repository: `git clone https://github.com/nael-awadallah/laravel-job-portal.git`
 2. Install dependencies: `composer install`
 3. Run migrations: `php artisan migrate`
 4. Seed the database: `php artisan db:seed`
